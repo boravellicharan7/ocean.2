@@ -127,7 +127,8 @@ body {
 
 .f {
     background-color: lightslategray;
-    font-size: 30px;
+    position: fixed;
+    bottom: 0;
     font-family: sans-serif;
     color: whitesmoke;
     width: 99%;
